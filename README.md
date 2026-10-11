@@ -1,2 +1,2 @@
 # mintymondos.github.io
-Website for RABBIX
+Website for RABBIX / Paper C
