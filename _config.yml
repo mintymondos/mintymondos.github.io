@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: RABBIX Kernel
 description: Updates for the RABBIX Kernel / PaperC compiler!!!
+
+
+- name: Github Pages Directory Listing
+  uses: jayanta525/github-pages-directory-listing@v4.0.0
